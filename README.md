@@ -34,9 +34,6 @@
 
 <div align="center">
 
-## ⚡ Foco Principal
-
-<img src="./assets/focus_powerbi_sql.svg" width="600" alt="Power BI & SQL - 100% Focus" />
 
 </div>
 
