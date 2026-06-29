@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ====== BANNER LIVE (GIF) ====== -->
-<img src="./assets/live_trading.gif" width="100%" alt="Live Data Stream"/>
+<img src=".github/workflows/live_trading_github_readme.gif"/>
 
 <br/>
 
