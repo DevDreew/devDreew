@@ -83,6 +83,7 @@ Atualmente evoluindo em:
 
 <br/>
 
+
 <div data-importer="techs" align="center">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="power bi logo"  />
   <img width="12" />
@@ -96,10 +97,6 @@ Atualmente evoluindo em:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
-</div>
-
-<br/>
 
 
 
