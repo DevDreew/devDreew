@@ -10,8 +10,6 @@
 
 </div>
 
-<div align="center">
-
 ### `Transformando dados brutos em decisões e tarefas repetitivas em automações inteligentes.`
 
 <a href="https://github.com/DevDreew">
